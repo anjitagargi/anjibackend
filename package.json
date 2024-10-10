@@ -1,0 +1,19 @@
+{
+  "name": "anjibackend",
+  "version": "1.0.0",
+  "description": "demo code to deploy",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "node",
+    "anji"
+  ],
+  "author": "Anjita Chandora",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.21.1"
+  }
+}
